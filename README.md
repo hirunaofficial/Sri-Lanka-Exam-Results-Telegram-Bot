@@ -11,10 +11,13 @@
 
 `/help` : More information about Sri Lanka Grade 5 O/L A/L Exam Results Bot.
 
-`/exams` : Available Exams Results
-`/alresult` `INDEX_NUMBER` : Get A/L Exam Results
-`/olresult` `INDEX_NUMBER` : Get O/L Exam Results
-`/g5result` `INDEX_NUMBER` : Get Grade 5 Scholarship Exam Results
+`/exams` : Available Exams Results.
+
+`/alresult` `INDEX_NUMBER` : Get A/L Exam Results.
+
+`/olresult` `INDEX_NUMBER` : Get O/L Exam Results.
+
+`/g5result` `INDEX_NUMBER` : Get Grade 5 Scholarship Exam Results.
 
 # What is Sri-Lanka-Exam-Results-Telegram-Bot ?
 Sri Lanka Exam Results Bot 📚 can collect Grade 5 O/L A/L Exam Results 📚 in Second Powerd By Sri lanka Department Of Examination 🚀
